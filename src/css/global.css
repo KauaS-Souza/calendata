@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400;
+    background-color: #ffffff;
+}
+
+:root {
+
+    /* ========= Primarias =========*/
+
+    --primari-dark-teal: #07393C;
+    --primari-stormy-teal: #2C666E;
+    --primari-frosted-blued: #90DDF0;
+
+    /* =========  Neutras =========*/
+    
+    --neutra-black: #000000;
+    --neutra-withe: #FFFFFF;
+
+    /*========= ESTILOS DE SIZE ========= */
+
+    --fs-h1: 64px;
+    --fs-h1-bold: 64px;
+    --fs-h2: 24px;
+    --fs-h2-bold: 24px;
+    --fs-button: 20px;
+    --fs-link: 18px;
+    --fs-p: 18px;
+    --fs-p-small: 12px;
+
+    /* ========= PESOS DE FONTE (WEIGHT) ========= */
+
+    --fw-regular: 400;
+    --fw-semibold: 600;
+    --fw-bold: 700;
+
+}
